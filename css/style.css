@@ -14,7 +14,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-/* --- BARRA DE NAVEGACIÓN (IDÉNTICA PARA TODAS LAS PAGS) --- */
+/* --- BARRA DE NAVEGACIÓN (GENERAL) --- */
 .bg-dark-custom {
     background-color: rgba(18, 18, 18, 0.98) !important;
     backdrop-filter: blur(15px);
@@ -56,7 +56,7 @@ body {
     left: 0;
 }
 
-/* --- HERO, CARDS Y OTROS (IGUAL QUE ANTES) --- */
+/* --- HERO, CARDS Y OTROS --- */
 .hero-section {
     min-height: 80vh;
     background: linear-gradient(45deg, rgba(0,0,0,0.8), rgba(43,147,72,0.2)), 
